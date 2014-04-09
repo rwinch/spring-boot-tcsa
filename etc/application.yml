@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password:
+    username: rwinch
+    url: jdbc:postgresql://localhost/rwinch
+    driverClassName: org.postgresql.Driver
