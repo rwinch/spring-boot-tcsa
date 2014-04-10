@@ -42,3 +42,12 @@ import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguratio
 public class RepositoryRestMvcAutoConfiguration {
 	
 }
+
+
+
+
+
+
+
+
+
