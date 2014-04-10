@@ -1,7 +1,7 @@
 @RestController
 class HelloController {
 	@RequestMapping("/")
-	String hello() {
-		"Hello"
+	String hello(String name) {
+		"Hello $name"
 	}
 }
